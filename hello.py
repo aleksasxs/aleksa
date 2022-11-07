@@ -1,2 +1,1 @@
-print('hello world')
-print('its test commit message')
+print('do you like apple juice?')
